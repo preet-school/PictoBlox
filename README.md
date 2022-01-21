@@ -5,4 +5,4 @@ All my PictoBlox projects!
 So I just get an idea and make it lmao
 
 # Important!
-You guys need to download the code to view it and must have PictoBlox or Scratch 3/Desktop. Sorry for the inconvince!
+You guys need to download the code to view it and must have PictoBlox. Sorry for the inconvince!
